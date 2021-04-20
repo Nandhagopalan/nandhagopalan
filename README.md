@@ -1,6 +1,4 @@
-### Hi there, I am Nandhagopalan 👋
-
-[![HitCount](http://hits.dwyl.com/nandhagopalan/nandhagopalan.svg)](http://hits.dwyl.com/amrrs/amrrs) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnandhagopalan)
+### Hi there, I am Nandhagopalan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👋
 
 Interested in building products driven 🚀 through AI/ML 🤖
 
