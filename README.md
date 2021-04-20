@@ -1,6 +1,6 @@
 ### Hi there, I am Nandhagopalan 👋
 
-Interested in building productd driven 🚀 through AI/ML 🤖
+Interested in building products driven 🚀 through AI/ML 🤖
 
 - 😄 Pronouns: He/Him
 
