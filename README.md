@@ -29,7 +29,7 @@ Product 🚀 |Python 🐍 | AI/ML 🤖 | Blogger 📺 | Kaggler 🕺
 
 <a href="https://github.com/Nandhagopalan/Structuring_Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandhagopalan&repo=Structuring_Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+</a>
 
 <a href="https://github.com/Nandhagopalan/DeepLearning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nandhagopalan&repo=DeepLearning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
