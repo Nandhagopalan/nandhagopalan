@@ -8,14 +8,10 @@ Interested in building products driven 🚀 through AI/ML 🤖
 Product 🚀 |Python 🐍 | AI/ML 🤖 | Blogger 📺 | Kaggler 🕺
 
 ## 🔧 Technologies & Tools/Frameworks
-[![](https://img.shields.io/badge/Keras-fc2814?style=for-the-badge&logo=keras&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Tensorflow-fc820f?style=for-the-badge&logo=tensorflow&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Os-fc820f?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=blue&color=2bbc8a)
-![](https://img.shields.io/badge/ScikitLearn-389cc7?style=flat&logo=scikit-learn&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Torch-informational?style=flat&logo=pytorch&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=2bbc8a)
