@@ -1,4 +1,4 @@
-### Hi there, I am Nandhagopalan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nandhagopalan
 
 Interested in building products driven 🚀 through AI/ML 🤖
 
@@ -6,6 +6,15 @@ Interested in building products driven 🚀 through AI/ML 🤖
 
 ### Skills
 Product 🚀 |Python 🐍 | AI/ML 🤖 | Blogger 📺 | Kaggler 🕺
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
 ### Reaching me out!
