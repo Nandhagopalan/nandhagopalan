@@ -40,4 +40,4 @@ Product 🚀 |Python 🐍 | AI/ML 🤖 | Blogger 📺 | Kaggler 🕺
 </a> 
 
 ### Reaching me out!
-Reach me out over [LinkedIn](https://www.linkedin.com/in/nandhu15/) ❤️
+Reach out to me over [LinkedIn](https://www.linkedin.com/in/nandhu15/) ❤️
