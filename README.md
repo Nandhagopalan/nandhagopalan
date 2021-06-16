@@ -42,4 +42,4 @@ Product 🚀 |Python 🐍 | AI/ML 🤖 | Blogger 📺 | Kaggler 🕺
 ### Reaching me out!
 Reach out to me over [LinkedIn](https://www.linkedin.com/in/nandhu15/) ❤️
 
-![](https://visitor-badge.glitch.me/badge?page_id=sbrvrm.sbrvrm)
+![](https://visitor-badge.glitch.me/badge?page_id=nandhagopalan.visitor-badge)
